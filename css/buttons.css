@@ -255,6 +255,7 @@
 }
 .button--tamaya.button--inverted {
 	color: #37474f;
+	border-color: #37474f;
 }
 .button--tamaya::before,
 .button--tamaya::after {
